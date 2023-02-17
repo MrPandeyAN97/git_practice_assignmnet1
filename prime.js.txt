@@ -11,6 +11,7 @@ if (number === 1) {
 
 else if (number > 1) {
 
+what a lovely day *&^%$%$#@@
    
     for (let i = 2; i < number; i++) {
         if (number % i == 0) {
